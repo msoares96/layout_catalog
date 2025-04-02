@@ -1,0 +1,2 @@
+body{box-sizing:border-box;margin:0;font-family:Roboto,sans-serif}body .product-grid{justify-content:center;gap:46px 48px;padding:50px 50px 40px;display:grid;overflow-x:hidden}@media (width>=488px){body .product-grid{grid-template-columns:repeat(2,200px)}}@media (width>=768px){body .product-grid{grid-template-columns:repeat(3,200px)}}@media (width>=1024px){body .product-grid{grid-template-columns:repeat(4,200px)}}
+/*# sourceMappingURL=index.0d43bfec.css.map */
